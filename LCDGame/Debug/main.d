@@ -1,0 +1,9 @@
+main.o: ../main.c
+main.o: ../SevenSeg/SevenSeg.h
+main.o: ../framebuffer/framebuffer.h
+main.o: C:/Users/linri/Workspace/ELEC5620M-Resources/Drivers/BasicFont/BasicFont.h
+main.o: ../gameProcess/GameProcess.h
+main.o: ../gameProcess/../Bitmap/bitmap.h
+main.o: C:/Users/linri/Workspace/ELEC5620M-Resources/Drivers/DE1SoC_LT24/DE1SoC_LT24.h
+main.o: C:/Users/linri/Workspace/ELEC5620M-Resources/Drivers/HPS_Watchdog/HPS_Watchdog.h
+main.o: C:/Users/linri/Workspace/ELEC5620M-Resources/Drivers/HPS_usleep/HPS_usleep.h
